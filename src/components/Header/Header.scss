@@ -1,0 +1,15 @@
+.header{
+  flex-grow: 1;
+  height: 60px;
+}
+
+.nav-link{
+  color: #fff;
+  text-decoration: none;
+  margin: 0 100px;
+}
+
+.toolbar{
+  display: flex;
+  justify-content: space-between;
+}

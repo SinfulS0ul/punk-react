@@ -1,0 +1,22 @@
+.products-page{
+  align-content: center
+}
+
+.products-list{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li{
+  list-style: none;
+}
+
+.page-numbers{
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.page-number{
+  margin: 5px;
+}

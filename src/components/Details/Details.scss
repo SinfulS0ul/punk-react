@@ -1,0 +1,33 @@
+.details{
+  display: flex;
+  text-align: center;
+  font-size: 20px;
+}
+
+.main-info{
+  margin: 4% 3%;
+  min-width: 300px;
+  max-width: 300px;
+  &__img{
+    height: 550px;
+    border-radius: 10px;
+  }
+  // &__name{
+  //   background: rgb(209, 143, 44);
+  //   height: 40px;
+  //   border-radius: 10px;
+  //   color: white;
+  //   border: 2px solid white;
+  //   box-shadow: 0 1px 4px black;
+  // }
+}
+
+.more-info{
+  margin: 2% 8%;
+  text-align: left;
+  &__name{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold
+  }
+}

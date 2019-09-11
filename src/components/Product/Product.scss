@@ -1,0 +1,15 @@
+.list-item__list-img{
+  height: 330px;
+  margin-top: 2%;
+}
+
+.list-item{
+  width: 350px;
+  height: 410px;
+  &:hover{
+    box-shadow: 3px 3px 20px #111111;
+  }
+  cursor: pointer;
+  border-radius: 10px;
+  margin: 5% 5px;
+}
